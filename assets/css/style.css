@@ -101,9 +101,15 @@
 .team-grid .social a:hover {
   opacity:1;
 }
-
+a{
+  color: #fff;
+  display:inline;
+}
+a:link{
+  color: #fff;
+  text-decoration: none;
+}
 canvas {
-
   position:absolute;
   top: 0;
   left: 0;
